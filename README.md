@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rakibul hasan Akash</h1>
+<h1 align="center">Hi 👋, I'm RAKIBUL HASAN AKASH</h1>
 <h3 align="center">A passionate CSE student from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashcse5688&label=Profile%20views&color=0e75b6&style=flat" alt="akashcse5688" /> </p>
