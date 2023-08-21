@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashcse5688&label=Profile%20views&color=0e75b6&style=flat" alt="akashcse5688" /> </p>
 
-- 🌱 I’m currently learning **Java programming language**
+- 🌱 I’m currently learning **Data structure and Algorithm **
 
 - 📫 How to reach me **akash15-5688@diu.edu.bd**
 
